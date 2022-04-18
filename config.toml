@@ -1,0 +1,4 @@
+baseURL = 'wen599.github.io'
+languageCode = 'zh-Hans'
+title = '小文的博客'
+theme = "ananke"
